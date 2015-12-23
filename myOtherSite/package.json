@@ -1,0 +1,14 @@
+{
+  "name": "my_other_site",
+  "version": "1.0.0",
+  "description": "example beyond the basic mySite. It includes routing and URL parsing for a multiple page site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Runberg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "example_site",
+  "version": "1.0.0",
+  "description": "example site that demonstrates serving static html pages using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Runberg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
